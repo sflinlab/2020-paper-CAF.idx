@@ -1,4 +1,4 @@
 The orginial XenofilteR source code is available at
 https://github.com/PeeperLab/XenofilteR
 
-Raw paired-end Fastq files are aligned to human reference genome using Partek (version) then apply XenofileR to distinguish the human and mouse reads in patient derived xenograft sequencing data.
+Raw paired-end Fastq files are aligned to human reference genome using Partek Flow, followed by using XenofileR to distinguish the human and mouse reads in patient derived xenograft sequencing data.
