@@ -1,6 +1,6 @@
 # 2020-paper-CAF.idx
 
-### This repository is related to a manuscript published by Ko YC et al.
+### This repository is related to a manuscript submitted by Ko YC et al.
 #### Title: Index of cancer-associated fibroblasts is superior to epithelial–mesenchymal transition score in prognosis prediction
 * PubMed Link: 
 * Article Link:
