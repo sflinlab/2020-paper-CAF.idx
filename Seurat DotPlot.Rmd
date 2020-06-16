@@ -42,7 +42,7 @@ max(GSE103322.data) #[1] 70678.29
 ```{r}
 library(Seurat)
 
-Puram <- CreateSeuratObject(counts = GSE103322.data, project = "GSE103322_Puram_5902_2017", meta.data = Puram.metadata)
+Puram <- CreateSeuratObject(counts = GSE103322.data, project = "GSE103322_Puram_5902_2017", meta.data = GSE103322.metadata)
 
 ```
 
