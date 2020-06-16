@@ -1,6 +1,6 @@
 ### Xenome codes to generate Figure S1b
-author: "danielsu" https://github.com/danielsu0523
-date: "6/16/2020"
+author: [danielsu](https://github.com/danielsu0523/For_review)
+date: 6/16/2020
 _______
 
 The orginial Xenome source code is referred to Gossamer bioinformatics suite https://github.com/data61/gossamer
