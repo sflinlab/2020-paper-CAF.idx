@@ -3,9 +3,9 @@ author: [danielsu](https://github.com/danielsu0523/For_review)
 date: 6/16/2020
 _______
 
-The orginial Xenome source code is referred to Gossamer bioinformatics suite https://github.com/data61/gossamer
+For the original Xenome source code, please refer to Gossamer bioinformatics suite https://github.com/data61/gossamer
 
-Detailed usage of Xenome is referred to https://github.com/data61/gossamer/blob/master/docs/xenome.md
+Detailed usage of Xenome is available at https://github.com/data61/gossamer/blob/master/docs/xenome.md
 
 ______
 ```
