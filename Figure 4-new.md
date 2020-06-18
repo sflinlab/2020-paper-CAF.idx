@@ -4,7 +4,7 @@ author: "sufang"
 date: "6/16/2020"
 
 ---
-* excuted on R 4.0.0 (2020-04-24)
+* executed on R 4.0.0 (2020-04-24)
 * X86_64-w64-mingw32/64 (64-bits)
 * The orginial Seurat source code is available at (https://github.com/satijalab/seurat)
 * expression matrix of GSE103322 was downloaded from (https://cells.ucsc.edu/?ds=head-neck)
