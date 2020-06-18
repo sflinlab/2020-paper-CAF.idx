@@ -3,7 +3,7 @@ author: sufang
 date: 6/18/2020
 _______
 
-#### Filtering steps to obtain the 9,356 patient data across 32 cancer subtypes through USC Xena-Browser
+#### Filtering steps to obtain the 9,356 patient data through UCSC Xena-Browser
 https://xenabrowser.net/
 GDC Pan-Cancer (PANCAN)
 
