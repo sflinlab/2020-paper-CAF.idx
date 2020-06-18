@@ -7,13 +7,13 @@ _______
 https://xenabrowser.net/
 Head and Neck Cancer (Puram 2017)
 
-##### Cell type
+##### Cell type (5902->4874)
 ```
-= “tumor” or “Fibroblast” or “T cell”
+B: "tumor cell" OR "T cell" OR "Fibroblast"
 ```
-##### Patient 
+##### remove Patient (4874->3338)
 ```
-!=”0”, “6”, “20”, “26”
+C: !="0" AND !="6" AND !="20" AND !="26"
 ```
 
 ![](https://i.imgur.com/952LomZ.jpg)
