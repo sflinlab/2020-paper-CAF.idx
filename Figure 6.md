@@ -35,7 +35,7 @@ A:-01A
 ```
 ##### CAF.idx
 ```
-=FN1 + TGFB2 + TGFBR2 +TGFBI
+=FN1 + TGFB2 + TGFBR2 + TGFBI
 ```
 
 _______
