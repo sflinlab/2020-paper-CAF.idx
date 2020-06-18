@@ -88,3 +88,5 @@ Fig = DotPlot(Puram, features = feature.DotPlot, group.by = "cellType", cols = c
 ggsave("For paper new Fig4b.png", height = 4.5, width = 5)
 
 ```
+
+![](https://i.imgur.com/oQcAnar.jpg)
