@@ -29,7 +29,14 @@ A:-01A
 ```
 !=null
 ```
-
+##### EMT score
+```
+=FN1 + VIM + ZEB1 + ZEB2 + TWIST1 + TWIST2 + SNAI1 + SNAI2 + CDH2 - CLDN4 - CLDN7 - TJP3 - MUC1 - CDH1
+```
+##### CAF.idx
+```
+=FN1 + TGFB2 + TGFBR2 +TGFBI
+```
 
 _______
 #### Remove test samples in MET500
