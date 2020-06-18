@@ -11,7 +11,7 @@ Head and Neck Cancer (Puram 2017)
 ```
 B: "tumor cell" OR "T cell" OR "Fibroblast"
 ```
-##### remove Patient (4874->3338)
+##### remove unknown (0), classical (6, 20), atypcial (26) (4874->3338)
 ```
 C: !="0" AND !="6" AND !="20" AND !="26"
 ```
