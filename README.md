@@ -3,7 +3,7 @@
 ### This repository is related to a manuscript submitted by Ko YC et al.
 #### Title: Index of cancer-associated fibroblasts is superior to epithelial–mesenchymal transition score in prognosis prediction
 * PubMed Link: 
-* Article Link:
+* Article Link: https://www.mdpi.com/2072-6694/12/7/1718/htm
 
 ### Extremely grateful to all who contributed to the following precious resources!
 
