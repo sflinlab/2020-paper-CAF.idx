@@ -5,7 +5,7 @@
 * PubMed Link: 
 * Article Link:
 
-### Great thanks to all who contributed to the following precious resources!
+### Extremely grateful to all who contributed to the following precious resources!
 
 1. Xenome (https://github.com/data61/gossamer)
 2. XenofilteR (https://github.com/PeeperLab/XenofilteR)
